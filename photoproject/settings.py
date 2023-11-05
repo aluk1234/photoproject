@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-v60lr)ktcss%oning16-@iw(gnoa1##la#ean2ew5ltiyz6#tp
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"] # 変更
 
 
 # Application definition
